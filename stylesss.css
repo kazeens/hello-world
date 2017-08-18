@@ -1,0 +1,306 @@
+body
+{
+	background: 100% 100% no repeat;
+	background-image: url(images/1111.jpg);
+	 background-size: cover; 
+	font-family: Comic Sans, Comic ,cursive;
+	font-size: medium;
+	color: black;
+	font-weight: normal;
+	margin:0px;
+	border: none;
+	}
+header
+ {
+	 
+	 width: 80%;
+	 padding: 5px; 
+	 margin-left: 10%;
+	 margin-right: 10%;
+	 margin-top: 20px;
+	 margin-bottom:20px;
+	 background-color:#1EEC13  ;
+	text-align:	 center;
+	 font-size:medium;
+	 
+border-radius: 20px;
+	 	 border-style: solid;
+	 background-color:#1EEC13  ;
+ }
+ .headright
+ {
+		
+		float:right;
+ }
+ .headelft
+ {
+	
+		float:left;
+ }
+ 
+ .topimg
+ {
+	 width:100px;
+	 height:90px;
+	 
+	 
+ }
+ 
+ 
+ .beginend__captions
+ {text-align: center;
+ 
+ 
+ }
+ 
+.headdpicright
+{vertical-align: left;
+	
+}
+ 
+ nav 
+ {
+	
+	 
+	 margin-left: 150px;
+	 margin-right: 150px;
+	 margin-bottom:20px;
+	 
+ } 
+ nav ul
+ {
+	 width: 50%;
+	 list-style-type: none;
+	 padding: 5px 0px 5px 0px;
+	 margin-right: auto;
+	 margin-left: auto;
+ }
+ nav ul li 
+ {
+	 display: inline;
+	 padding: 5px 10px 5px 10px;
+	 margin: 0px 10px 0px 10px;
+	 border-color: black;
+	 border-style: solid;
+	 background-color:#1EEC13  ;
+	 color: black;
+border-radius: 20px;
+	 }
+nav ul li a:link, nav ul li a:visited
+ {
+	 text-decoration:none;
+	 font-weight: bold;
+	  color: black;
+ }
+ nav  ul li.selected
+ {
+	 background-color: #47BE3C ;
+	 
+ }
+ .results
+ {       padding: 5px;
+		margin-left: 7px;
+		border-radius: 20px;
+	 	border-style:solid;
+		background-color:#1EEC13;
+		
+		width: 170px;
+		font-weight: lighter;
+		float: left;
+ }
+ .results table
+ 
+ {
+	 border: 2px;
+	border-radius: 1px;
+	border-style:none;
+	border-collapse: collapse;
+	 font-size: 85%;
+	 border: none;
+	 background-color:#F5B10A;
+  font-weight: lighter;
+ }
+ 
+ 
+ .results table th
+ {
+	 text-align: right;
+	 font-weight: lighter;
+	 
+ }
+ .results table td
+ {
+	 text-align: center;
+	 
+ }
+ span.winers
+ {
+	 font-weight: bold;
+	 
+ }
+ div.procenter
+ {
+text-align:center;
+
+ 
+ margin: auto;}
+ h3 
+ {
+	 
+	 padding: 0px;
+	 text-align: center;
+	 margin: 10px auto 10px auto;
+	 background-color:#E88C17;
+	border-radius: 20px;
+	 border-style: solid;
+	 border: 5px;
+	 
+ } 
+ .procenter h2
+ {
+	 text-decoration: underline;
+		
+ }
+
+.main
+ {
+	 margin-left: 207px;
+	 margin-right:243px;
+	 margin-bottom: 15px;
+	 border-radius: 20px;
+	 border-style: solid;
+	 background-color:#1EEC13  ;	 
+ } 
+ h2.articletitles
+ {		
+ padding: 2px;
+ margin-top:2px;
+ margin-left: auto;
+ margin-bottom: 2px;
+  margin-right: auto;
+  width: 60%;
+ text-align:center;
+	 background-color:#E88C17;
+	 border-radius: 20px;
+	 border-style: solid;
+border-color: black;	 
+		 text-decoration: underline;
+		
+ }
+ article.news
+ {	margin: 10px;
+	 padding: 10px;
+	 background-color:#F5B10A;
+	 border-radius: 20px;
+	 border-style: solid;
+border: 3px;
+border-color: black;	 
+	 
+ }
+ article.news img
+ {float: left;}
+ 
+ 
+ aside
+ { 	
+		padding: 3px;
+		margin-right: 7px;
+		border-radius: 20px;
+		border-style:solid;
+		background-color:#1EEC13;
+		width: 210px;
+		float:right;
+	 
+ }
+ aside h2
+ {
+	 text-decoration: underline;
+	 text-align: center;
+	 text-decoration-color: black;
+	 
+	 
+ }
+ aside table
+ {
+margin-left: 5px;
+margin-right: 5px;
+border: none;
+padding: 0px;	 
+	 
+ }
+ aside table th
+ {
+	 vertical-align:top;
+	 text-align: center;
+ }
+ aside table td
+ {
+	text-align: left; 
+	 
+ }
+ 
+ 
+ #Morenews
+	{	
+	width:300px;
+	padding:23px 2px 23px 2px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 6px;
+	text-align: center;
+	font-size: 143%;
+	border-radius: 20px;
+	border-style: solid;
+	background-color: red;
+	 
+ }
+ #topshot
+ {		
+		margin-top:10px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 15px;
+		background-color:#1EEC13; 
+		border-radius: 20px;
+	 	 border-style: solid;
+	 	 clear: both;
+
+	 
+ }
+ #topshot h2
+ {   
+	 width: 780px;
+	 margin-left: auto;
+	 margin-right: auto;
+	 margin-bottom:5px;
+	 padding-left: 10px;
+	 padding-right: 10px;
+	 text-align: center;
+	 background-color:#E88C17;
+	 border-radius: 20px;
+	 border-style: solid;
+
+ }
+ #pictleft
+ {
+	 
+	 float:left;
+	 
+ }
+ #pictright
+ {
+	 float: right;
+	 
+ }
+ 
+div #videocontainer
+{   padding: 0px;
+	height: 500px;
+	width: 750px;
+	margin: auto;
+	} 
+footer
+	  {
+		  font-size:0.8em;
+		  text-align:center;}
+
